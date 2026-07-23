@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrehman377">LinkedIn</a> ·
-  <a href="mailto:your.email@gmail.com">Email</a> ·
+  <a href="mailto:mnai0377@gmail.com">Email</a> ·
   <a href="https://your-portfolio-link.com">Portfolio</a>
 </p>
 
