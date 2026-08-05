@@ -61,8 +61,17 @@ Currently going deeper on evals (DeepEval, PromptFoo) and observability (LangSmi
 ### 📊 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/profile-summary-cards-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
-  <img src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/profile-summary-cards-output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive time" />
 </p>
 
 ### ✍️ Elsewhere
