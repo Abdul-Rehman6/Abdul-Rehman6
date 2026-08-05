@@ -17,7 +17,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -58,15 +58,11 @@ Currently going deeper on evals (DeepEval, PromptFoo) and observability (LangSmi
 | [Agentic-Rag](https://github.com/Abdul-Rehman6/Agentic-Rag) | RAG where the retrieval strategy is decided by the agent, not hardcoded |
 | [Custome-MCP-Client-Server](https://github.com/Abdul-Rehman6/Custome-MCP-Client-Server) | MCP client and server built from scratch to understand the protocol |
 
-### 📊 GitHub stats
+### 📊 Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman6&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman6&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdul-Rehman6&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/profile-summary-cards-output/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
+  <img src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/profile-summary-cards-output/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
 </p>
 
 ### ✍️ Elsewhere
