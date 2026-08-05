@@ -13,6 +13,14 @@
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdul-Rehman6/Abdul-Rehman6/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ### 🔭 What I do
@@ -58,7 +66,7 @@ Currently going deeper on evals (DeepEval, PromptFoo) and observability (LangSmi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman6&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Abdul-Rehman6&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### ✍️ Elsewhere
